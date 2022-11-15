@@ -15,9 +15,10 @@ I am a third-year student, set to graduate in 2024.
 ✏️ Skills
 * Python
 * Java
-* Machine learning
+* SQL
 * R
 * C
+* HTML
 
 💭 Passions
 * Environmentalism
