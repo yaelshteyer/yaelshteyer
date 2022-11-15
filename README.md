@@ -3,7 +3,7 @@
 🎓 School
 
 I am currently pursuing an Honours Specialization in Computer Science at the University of Western Ontario.
-I am a third-year student, set to graduate in 2024.
+I am a third-year student, with expected graduation in April 2024.
 
 
 💼 Experience
@@ -19,6 +19,13 @@ I am a third-year student, set to graduate in 2024.
 * R
 * C
 * HTML
+
+📚 Relevant Coursework
+* Data Structures & Algorithms
+* Operating Systems
+* Databases
+* Software Engineering
+* Computer Organization and Architecture
 
 💭 Passions
 * Environmentalism
